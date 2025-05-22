@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="reset">Reset</string>
+    <string name="button">Button</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="back_button_details">click to navigate back to home screen</string>
+    <string name="player">Player VS Player</string>
+    <string name="computer">Player Vs Computer</string>
+</resources>

@@ -1,0 +1,69 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio & IntelliJ
+*.iml
+*.iws
+.idea/
+*.ipr
+
+# Build folders
+.gradle/
+build/
+.cxx/
+.externalNativeBuild/
+
+# Local configuration
+local.properties
+/local.properties
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# APKs, AABs, and build intermediates
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Log files
+*.log
+
+# Captures folder
+captures/
+
+# NDK & Native build
+obj/
+*.so
+
+# Keystore files
+*.jks
+*.keystore
+
+# Kotlin
+*.kotlin_module
+
+# Google Services config
+google-services.json
+
+# Navigation Editor & Asset Wizard
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+
+
